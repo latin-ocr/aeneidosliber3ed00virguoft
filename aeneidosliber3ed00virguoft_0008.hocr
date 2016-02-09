@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "aeneidosliber3ed00virguoft_0008.png"; bbox 0 0 2046 3210; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 44 0 2036 3210">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 44 0 2036 3210">
+     <span class='ocr_line' id='line_1_1' title="bbox 44 0 2036 3210; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 44 0 2036 3210; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 132 1426 1475 2307">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 108 1413 1485 2311">
+     <span class='ocr_line' id='line_1_2' title="bbox 415 1426 1404 1523; baseline -0.002 -32"><span class='ocrx_word' id='word_1_2' title='bbox 415 1495 420 1523; x_wconf 39' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_3' title='bbox 851 1440 974 1490; x_wconf 61' lang='grc' dir='ltr'>πίνει</span> <span class='ocrx_word' id='word_1_4' title='bbox 993 1446 1166 1514; x_wconf 62' lang='lat' dir='ltr'>Eam</span> <span class='ocrx_word' id='word_1_5' title='bbox 1197 1448 1309 1501; x_wconf 60' lang='lat'>1884.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1347 1443 1362 1461; x_wconf 51' lang='lat'><em>*</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1382 1426 1404 1489; x_wconf 59' lang='grc' dir='ltr'><strong>ἲ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 457 1524 1475 1591; baseline -0.009 -19.393"><span class='ocrx_word' id='word_1_8' title='bbox 457 1529 679 1572; x_wconf 56' lang='lat' dir='ltr'><em>Remum</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 704 1526 820 1572; x_wconf 79' lang='lat'>1888.</span> <span class='ocrx_word' id='word_1_10' title='bbox 855 1526 968 1583; x_wconf 76' lang='lat'>1890,</span> <span class='ocrx_word' id='word_1_11' title='bbox 1002 1524 1272 1576; x_wconf 55' lang='lat' dir='ltr'>1⁸9²»th</span> <span class='ocrx_word' id='word_1_12' title='bbox 1308 1524 1444 1588; x_wconf 84' lang='grc' dir='ltr'>ι9οῆ</span> <span class='ocrx_word' id='word_1_13' title='bbox 1468 1583 1475 1591; x_wconf 20' lang='grc' dir='ltr'>ᾇ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 132 2284 174 2307; baseline 0 -62"><span class='ocrx_word' id='word_1_14' title='bbox 132 2284 174 2307; x_wconf 24' lang='lat' dir='ltr'>N</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
